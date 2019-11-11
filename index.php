@@ -1,5 +1,5 @@
 <?php
 
-  echo "index.html";
+  header ('Location: index.html'); 
 
  ?>
