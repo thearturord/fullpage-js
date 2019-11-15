@@ -337,6 +337,14 @@ h1, h2, h3, h4, h5, h6 {
         Admin-Area
 ----------------------*/
 
+.welcome{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
 .container{
   display: flex;
   align-items: center;
@@ -345,10 +353,20 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid black;
 }
 
-.form h1{
+.welcome h1{
 
 font-size: 50px;
 padding: 10px;
+}
+
+.welcome button{
+  font-size: 25px;
+  margin: 0 10px;
+  padding: 3px;
+  font-weight: 500;
+  background-color: white;
+  color: black;
+  border: none;
 }
 
 .form label{
@@ -366,6 +384,23 @@ padding: 10px;
   font-size: 30px;
   margin-left: 200px;
 }
+
+/* 
+.taza-div{
+  display: none;
+}
+
+.poloche-div{
+  display: none;
+}
+
+.gorra-div{
+  display: block;
+}
+
+.display{
+  display: block;
+} */
 
 /* ------------------
       Mensaje de volver
