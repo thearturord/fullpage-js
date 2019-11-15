@@ -27,8 +27,8 @@ if ($replaced)
   unlink('../index.tmp');
 }
 
-
-header ('Location: ../message-sent.html');
+// 
+// header ('Location: ../message-sent.html');
 
 
 
