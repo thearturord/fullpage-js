@@ -5,7 +5,7 @@
 // 							//
 
 $taza0 =
- "no sea asi" 
+ "no sea asi"
 ;
 $taza1 =
 "Bob-Sponge"
@@ -55,25 +55,25 @@ $poloche7 =
 ;
 
 $gorra0 =
- "no sea asi" 
+ "no sea asi"
 ;
 $gorra1 =
 "Youtube"
 ;
 $gorra2 =
- "no sea asi" 
+ "no sea asi"
 ;
 $gorra3 =
 "Youtube"
 ;
 $gorra4 =
- "no sea asi" 
+ "no sea asi"
 ;
 $gorra5 =
 "Youtube"
 ;
 $gorra6 =
- "no sea asi" 
+ "no sea asi"
 ;
 $gorra7 =
 "Youtube"
