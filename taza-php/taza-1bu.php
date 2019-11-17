@@ -1,12 +1,12 @@
 <?php
 
-include "../variables.php";
+include "../index.php";
 
 $titulo = $_POST['titulo'];
 $subtitulo = $_POST['subTitulo'];
 
-$reading = fopen('../variables.php', 'r');
-$writing = fopen('../variables.tmp', 'w');
+$reading = fopen('../index.php', 'r');
+$writing = fopen('../index.tmp', 'w');
 
 $replaced = false;
 
@@ -22,9 +22,9 @@ fclose($reading); fclose($writing);
 // might as well not overwrite the file if we didn't replace anything
 if ($replaced)
 {
-  rename('../variables.tmp', '../variables.php');
+  rename('../index.tmp', '../index.php');
 } else {
-  unlink('../variables.tmp');
+  unlink('../index.tmp');
 }
 
 
