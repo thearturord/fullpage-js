@@ -2,7 +2,7 @@
 
 echo "hola";
 
-rename('../hola.php', '../nena.php')
+unlink('../nena.php')
 
 // include "../variables.php";
 //
