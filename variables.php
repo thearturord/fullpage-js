@@ -1,14 +1,13 @@
 <?php
 
-// 							//
 // 	Variables		//
 // 							//
 
 $taza0 =
- "no sea asi"
+ "hy" 
 ;
 $taza1 =
-"Bob-Sponge"
+ "Bob-Sponge" 
 ;
 $taza2 =
 "Leon"
@@ -55,25 +54,25 @@ $poloche7 =
 ;
 
 $gorra0 =
- "no sea asi"
+ "JF" 
 ;
 $gorra1 =
 "Youtube"
 ;
 $gorra2 =
- "no sea asi"
+ "JF" 
 ;
 $gorra3 =
 "Youtube"
 ;
 $gorra4 =
- "no sea asi"
+ "JF" 
 ;
 $gorra5 =
 "Youtube"
 ;
 $gorra6 =
- "no sea asi"
+ "JF" 
 ;
 $gorra7 =
 "Youtube"
