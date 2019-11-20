@@ -1,9 +1,5 @@
-<?php
 
-include "variables.php";
-
-$html =
-"<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang='en'>
 
 <head>
@@ -337,8 +333,4 @@ $html =
 	<script src='js/config.js'></script>
 </body>
 
-</html>";
-
-echo ($html)
-
- ?>
+</html>
