@@ -1,5 +1,11 @@
+<?php
 
-<!DOCTYPE html>
+require('../vendor/autoload.php');
+
+include "variables.php";
+
+$html =
+"<!DOCTYPE html>
 <html lang='en'>
 
 <head>
@@ -333,4 +339,8 @@
 	<script src='js/config.js'></script>
 </body>
 
-</html>
+</html>";
+
+echo ($html)
+
+ ?>
