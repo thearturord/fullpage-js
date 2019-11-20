@@ -1,7 +1,5 @@
 <?php
 
-require('../vendor/autoload.php');
-
 include "variables.php";
 
 $html =
