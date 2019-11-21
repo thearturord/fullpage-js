@@ -2,6 +2,8 @@
 
 include "variables.php";
 
+include "vendor/autoload.php";
+
 $html =
 "<!DOCTYPE html>
 <html lang='en'>
