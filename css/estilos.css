@@ -372,6 +372,8 @@ padding: 10px;
 .form label{
   font-size: 30px;
   margin: 10px;
+  width: 300px;
+  display: inline-block;
 }
 
 .form input{
@@ -385,7 +387,7 @@ padding: 10px;
   margin-left: 200px;
 }
 
-/* 
+/*
 .taza-div{
   display: none;
 }
@@ -472,7 +474,7 @@ padding: 10px;
   .footer .texto-naranja {
     font-size: 40px;
   }
-
+/*
   .productos article:nth-child(1) {
     background-image: url("../media/tazaCell/taza-1Cell.png");
   }
@@ -503,7 +505,7 @@ padding: 10px;
 
   .productos article:nth-child(8) {
     background-image: url("../media/tazaCell/celular-taza.png");
-  }
+  } */
 }
 
 @media screen and (max-width: 576px) {

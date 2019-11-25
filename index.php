@@ -100,24 +100,24 @@ $html =
 					<p class='modelo'>
 						<span dir='123' class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza0</span></p>
-					<p class='descripcion texto-negro'>La marca que rompe records en </br>versatilidad y modelo</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub0</p>
+					<p class='precio'>$tazaPrice0</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche0</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub0</p>
+					<p class='precio'>$polochePrice0</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra0</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub0</p>
+					<p class='precio'>$gorraPrice0</p>
 				</div>
 
 			</article>
@@ -128,24 +128,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza1</span></p>
-					<p class='descripcion texto-negro'>Lo que cada niño desea para desayunar</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub1</p>
+					<p class='precio'>$tazaPrice1</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche1</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub0</p>
+					<p class='precio'>$polochePrice1</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra1</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub1</p>
+					<p class='precio'>$gorraPrice1</p>
 				</div>
 
 			</article>
@@ -156,24 +156,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza2</span></p>
-					<p class='descripcion texto-negro'>Caricatura animada</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub2</p>
+					<p class='precio'>$tazaPrice2</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche2</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub2</p>
+					<p class='precio'>$polochePrice2</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra2</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub2</p>
+					<p class='precio'>$gorraPrice2</p>
 				</div>
 
 			</article>
@@ -184,24 +184,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza3</span></p>
-					<p class='descripcion texto-negro'>Para personas con actitud</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub3</p>
+					<p class='precio'>$tazaPrice3</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche3</span></p>
-					<p class='descripcion texto-negro blanco-1'>Un modelo unico y moderno</p>
-					<p class='precio blanco-1'>250</p>
+					<p class='descripcion texto-negro blanco-1'>$polocheSub3</p>
+					<p class='precio blanco-1'>$polochePrice3</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra3</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub3</p>
+					<p class='precio'>$gorraPrice3</p>
 				</div>
 
 			</article>
@@ -212,24 +212,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza4</span></p>
-					<p class='descripcion texto-negro'>Un concepto variable</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub4</p>
+					<p class='precio'>$tazaPrice4</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco negro-1'>$poloche4</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub4</p>
+					<p class='precio'>$polochePrice4</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra4</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub4</p>
+					<p class='precio'>$gorraPrice4</p>
 				</div>
 
 			</article>
@@ -240,24 +240,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza5</span></p>
-					<p class='descripcion texto-negro'>El anime siempre presente</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub5</p>
+					<p class='precio'>$tazaPrice5</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco negro-1'>$poloche5</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub5</p>
+					<p class='precio'>$polochePrice5</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra5</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub5</p>
+					<p class='precio'>$gorraPrice5</p>
 				</div>
 
 			</article>
@@ -268,24 +268,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza6</span></p>
-					<p class='descripcion texto-negro'>Un te amo nunca esta de mas</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub6</p>
+					<p class='precio'>$tazaPrice6</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche6</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$polocheSub6</p>
+					<p class='precio'>$polochePrice6</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra6</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub6</p>
+					<p class='precio'>$gorraPrice6</p>
 				</div>
 
 			</article>
@@ -296,24 +296,24 @@ $html =
 					<p class='modelo'>
 						<span class='texto-naranja'>Taza</span>
 						<span class='texto-blanco'>$taza7</span></p>
-					<p class='descripcion texto-negro'>Para todas las madres amorosas!</p>
-					<p class='precio'>350</p>
+					<p class='descripcion texto-negro'>$tazaSub7</p>
+					<p class='precio'>$tazaPrice7</p>
 				</div>
 
 				<div class='informacion-producto poloche'>
 					<p class='modelo'>
 						<span class='texto-naranja'>T-Shirt</span>
 						<span class='texto-blanco'>$poloche7</span></p>
-					<p class='descripcion texto-negro blanco-1'>Un modelo unico y moderno</p>
-					<p class='precio blanco-1'>250</p>
+					<p class='descripcion texto-negro blanco-1'>$polocheSub7</p>
+					<p class='precio blanco-1'>$polochePrice7</p>
 				</div>
 
 				<div class='informacion-producto gorra'>
 					<p class='modelo'>
 						<span class='texto-naranja'>Gorra</span>
 						<span class='texto-blanco'>$gorra7</span></p>
-					<p class='descripcion texto-negro'>Un modelo unico y moderno</p>
-					<p class='precio'>250</p>
+					<p class='descripcion texto-negro'>$gorraSub7</p>
+					<p class='precio'>$gorraPrice7</p>
 				</div>
 
 			</article>
